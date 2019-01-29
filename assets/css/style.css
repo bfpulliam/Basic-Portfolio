@@ -36,22 +36,24 @@ a {
   margin: auto;
 }
 
-img {
-  padding: 50px;
-  height: 100px;
-  position: absolute, top left;
-}
-
 footer {
+  position:fixed; 
   border-top: 8px solid #4aaaa5;
+  left: 0;
+  bottom:0;
+  width: 100%;
+  height: 50px;
   text-align: center;
   color: #ffffff;
-  height: 50px;
   background-color: #666666;
-  position: relative;
-  position: bottom;  
 }
 
 .media{
+  margin-top: 10px;
   float: left;
+  z-index: -1;
+}
+
+#form{
+  margin:auto;
 }
