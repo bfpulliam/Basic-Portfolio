@@ -1,16 +1,16 @@
 
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com) [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+# Basic Portfolio
 
 
-#Overview
-
+## Overview
 In this assignment, I built a basic professional portfolio site using HTML/CSS in accordance with a style guide and template to replace a layout.
 
 This is my first homework assignment as a web designer which focused on the front end segment of design.
 
-##Design Requirements for Homework listed below:
+## Design Requirements for Homework listed below:
 ```
-###Recommended Assignment - That Portfolio Though
+### Recommended Assignment - That Portfolio Though
 IMPORTANT Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 The content for the index.html should be unique to you.
 
