@@ -9,7 +9,7 @@ In this assignment, I built a basic professional portfolio site using HTML/CSS i
 This is my first homework assignment as a web designer which focused on the front end segment of design.
 
 ##Design Requirements for Homework listed below:
-
+```
 ###Recommended Assignment - That Portfolio Though
 IMPORTANT Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 The content for the index.html should be unique to you.
@@ -44,3 +44,4 @@ The entire content and the main section content area is 960px wide.
 
 Bonus
 Make your pages more sophisticated by adding style to text links, to image links, and to buttons for when a user hovers their cursor over them.
+```
