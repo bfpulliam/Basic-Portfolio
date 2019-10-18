@@ -12,12 +12,13 @@ This is my first homework assignment as a web designer which focused on the fron
 ## Design Requirements for Homework listed below:
 ```
 Recommended Assignment - That Portfolio Though
-IMPORTANT Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
+IMPORTANT Your site's layout must match the designs in these screenshots. 
+You'll find the specs for these designs below.
 The content for the index.html should be unique to you.
 
 Write a paragraph or two about yourself. Make it fun, show your personality!
-The main logo where it says "Your Name" should say your name. This may make the logo section smaller or wider depending 
-on how long your name is—that is fine and expected.
+The main logo where it says "Your Name" should say your name. This may make the logo section smaller or wider
+depending on how long your name is—that is fine and expected.
 
 After all of your HTML is written, you can begin styling your pages using the style.css file you created.
 
